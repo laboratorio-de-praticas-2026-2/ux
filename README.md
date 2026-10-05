@@ -161,16 +161,6 @@ O projeto considera:
 - `[PREENCHER: FigJam, Miro, Notion, Maze, etc.]`
 - GitHub — documentação e versionamento
 
-## 👨‍💻 Equipe
-
-| Nome | Função | Contato |
-|------|--------|---------|
-| `[Nome]` | `[ex.: UX Researcher]` | `[LinkedIn / GitHub]` |
-| `[Nome]` | `[ex.: UI Designer]` | `[LinkedIn / GitHub]` |
-| `[Nome]` | `[ex.: Product Designer]` | `[LinkedIn / GitHub]` |
-
-**Orientação / Instituição:** `[PREENCHER: professor(a), curso e instituição]`
-
 ## 🚀 Próximos passos
 
 - [ ] Realizar nova rodada de testes de usabilidade
